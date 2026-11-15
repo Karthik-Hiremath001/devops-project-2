@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Temporary files
+*.log
+.DS_Store
