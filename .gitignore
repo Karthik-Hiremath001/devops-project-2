@@ -13,3 +13,5 @@ crash.log
 # Temporary files
 *.log
 .DS_Store
+*.tfplan
+terraform/session-manager-plugin.deb
